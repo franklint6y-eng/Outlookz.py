@@ -36,7 +36,7 @@ from telegram.ext import (
 )
 
 # ─── CONFIG — FILL THESE IN ──────────────────────────────────────────────────
-BOT_TOKEN = "8966777382:AAEMpxVLeiiAIczncpi3DOrGqeXiSRPDNq8"
+BOT_TOKEN = "8576724259:AAHHr4_3wpacmBlL6sJwa3C6KNHZXCmF_As"
 
 # One admin:   ADMIN_IDS = {123456789}
 # Multiple:    ADMIN_IDS = {123456789, 987654321}
